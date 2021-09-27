@@ -109,10 +109,7 @@ main {
     letter-spacing: 2px;
 }
 
-@font-face {
-    font-family: Montserrat;
-    src: url(../font/Montserrat/Montserrat-Bold.otf);
-}
+
 
 .btn-whats {
     font-family: Montserrat;
