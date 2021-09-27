@@ -106,7 +106,7 @@ main {
 }
 
 .btn-instagran:hover {
-    letter-spacing: 2px;
+    letter-spacing: 0.5px;
 }
 
 
@@ -124,5 +124,5 @@ main {
 }
 
 .btn-whats:hover {
-    letter-spacing: 2px;
+    letter-spacing: 0.5px;
 }
